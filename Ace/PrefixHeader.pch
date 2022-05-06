@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  Ace
+//
+//  Created by mac on 07/08/16.
+//  Copyright © 2016 Xanadutec. All rights reserved.
+//
+
+//#ifndef PrefixHeader_pch
+//#define PrefixHeader_pch
+//
+//// Include any system framework and library headers here that should be included in all compilation units.
+//// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+//
+//#import "AppPreferences.h"
+//#import "Constants.h"
+//#import "Database.h"
+//#import "APIManager.h"
+//#import "Keychain.h"
+//#endif /* PrefixHeader_pch */
+
